@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "シンセンス",
+  "base_artist": "frederic",
+  "createdAt": "2026-02-07T16:39:34.170268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンセンス",
+      "artist": "frederic",
+      "has_synced": false,
+      "path": "select/01_シンセンス_frederic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンセンス",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_シンセンス_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シンセンス",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_02_シンセンス_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "シンセンス",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_03_シンセンス_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "シンセンス",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_04_シンセンス_フレデリック.txt"
+    }
+  ]
+}
